@@ -2,4 +2,4 @@
 
 - 🔭 Actualmente me encuentro estudiando el bachillerato
 - 🌱 Actualmente estoy en un curso de programacion web
-- 👯 Me gusta la programacion
+- 👯 Me esta gustando la programacion
